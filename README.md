@@ -1,8 +1,12 @@
 # Validation Library
-
 Simple input validation.
 
 [![Build Status](https://travis-ci.org/joshmoody/validation.png?branch=master)](https://travis-ci.org/joshmoody/validation) [![Total Downloads](https://poser.pugx.org/joshmoody/validation/downloads.png)](https://packagist.org/packages/joshmoody/validation) [![Latest Stable Version](https://poser.pugx.org/joshmoody/validation/v/stable.png)](https://packagist.org/packages/joshmoody/validation)
+
+## DEPRECATED!
+This repository will no longer be updated. I've forked the project in [werx/validation](https://github.com/werx/validation) and will maintain the package there.
+
+werx/validation 1.0.0 is identical to joshmoody/validation 1.0.0 except the namespace has changed.
 
 ## Usage
 There are two components to this library. A set of validation methods and an input validation engine.
